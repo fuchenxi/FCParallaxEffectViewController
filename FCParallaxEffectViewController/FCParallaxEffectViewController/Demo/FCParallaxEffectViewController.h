@@ -1,5 +1,5 @@
 //
-//  ViewController.h
+//  FCParallaxEffectViewController.h
 //  FCParallaxEffectViewController
 //
 //  Created by 付晨曦 on 2017/7/11.
@@ -8,8 +8,6 @@
 
 #import <UIKit/UIKit.h>
 
-@interface ViewController : UIViewController
-
+@interface FCParallaxEffectViewController : UIViewController
 
 @end
-
